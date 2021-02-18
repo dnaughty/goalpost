@@ -7,6 +7,8 @@ ruby '2.7.1'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.5'
 gem 'pg'
 # Use Puma as the app server
+gem 'devise'
+gem 'nested_scaffold'
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
